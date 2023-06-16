@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Lato", Inter;
+}
+
+body {
+  margin: 0% 10%;
+}
+
+h4 {
+  font-size: 1rem;
+  color: rgb(56, 56, 56);
+}
+h3 {
+  font-size: 1.5rem;
+  font-weight: 900;
+  margin-bottom: 2rem;
+  color: rgb(56, 56, 56);
+  line-height: 2.5rem;
+  margin: 3rem, 0;
+}
+
+a {
+}
